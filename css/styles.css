@@ -1,0 +1,16 @@
+:root{
+    --accent: #2196F3;
+    --black: #000;
+    --background: #2F303A;
+    --texts: #757575;
+    --white: #FFF;
+    --titlecolor: #212121;
+    --teambackground: #F5F4FA;
+
+}
+
+/*  Приклад
+.Studio{
+    color: var(--accent);
+} */
+
