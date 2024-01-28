@@ -13,4 +13,120 @@
 .Studio{
     color: var(--accent);
 } */
+a{ text-decoration: none;}
+ul{list-style-type: none;}
+h1,h2,h3,h4,ul,button{ padding: 0; margin: 0;}
+body{
+     font-family: "Roboto", sans-serif;
+    font-size: 14px;
+font-weight: 400;
+color:var(--texts);}  
 
+.logo{
+    color: #2196F3;
+font-family: "Raleway", sans-serif;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.78px;
+}
+.logo-studio{
+    color: #000;
+}
+.nav-list-link{
+    color: #212121;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+.nav-list-link:hover{color: #2196F3;}
+.header-contacts-link{
+    color: #757575;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+.header-contacts-link:hover{color: #2196F3;}
+.hero-title{
+    color: #FFF;
+text-align: center;
+font-size: 44px;
+font-style: normal;
+font-weight: 900;
+line-height: 1.36; 
+letter-spacing: 2.64px;
+text-transform: uppercase;
+}
+.hero-button{
+    color: #FFF;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.87; 
+letter-spacing: 0.96px;
+}
+.features-list-title{
+    color: #212121;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+.features-list-text{
+    color: #757575;
+font-style: normal;
+line-height: 1.71; 
+letter-spacing: 0.42px;
+}
+.work-title{
+    color: #212121;
+text-align: center;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.08px;
+}
+.team-title{
+    color: #212121;
+text-align: center;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.08px;
+}
+.team-list-title{
+    color: #212121;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.48px;
+}
+.team-list-text{
+    color: #757575;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+line-height: normal;
+letter-spacing: 0.48px;
+}
+.address-city{
+    color: #FFF;
+font-style: normal;
+line-height: 1.71; 
+letter-spacing: 0.42px;
+}
+.address-link{
+    color: #757575;
+font-style: normal;
+line-height: 1.71; 
+letter-spacing: 0.42px;
+}
